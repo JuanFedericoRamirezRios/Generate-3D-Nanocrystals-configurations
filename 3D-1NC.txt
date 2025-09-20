@@ -1,0 +1,5 @@
+Xs= 10
+Ys= 10
+Zs= 14
+x	y	z	radius
+5	5	7	3
